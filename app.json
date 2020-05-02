@@ -22,7 +22,12 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
-    }
+      "supportsTablet": true,
+      "bundleIdentifier": "com.test.ExpoMapView"
+    },
+    "android": {
+      "package": "ExpoMapView"
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
   }
 }

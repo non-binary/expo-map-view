@@ -26,7 +26,7 @@
       "bundleIdentifier": "com.test.ExpoMapView"
     },
     "android": {
-      "package": "ExpoMapView"
+      "package": "com.test.ExpoMapView"
     },
     "entryPoint": "node_modules/expo/AppEntry.js"
   }
